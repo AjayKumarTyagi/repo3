@@ -1,1 +1,2 @@
 fetching vs pulling
+pulling vs fetch
