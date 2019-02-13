@@ -6,6 +6,7 @@ class file
 		void dis()
 		{
 			cout<<"hola amigos";
+			cout<<"alohora";
 		}
 };
 int main()
